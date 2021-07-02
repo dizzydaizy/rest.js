@@ -33,7 +33,7 @@
   "repository": "github:octokit/rest.js",
   "dependencies": {
     "@octokit/core": "^3.2.3",
-    "@octokit/plugin-paginate-rest": "^2.6.2",
+    "@octokit/plugin-paginate-rest": "^2.13.4",
     "@octokit/plugin-request-log": "^1.0.2",
     "@octokit/plugin-rest-endpoint-methods": "5.0.0"
   },
